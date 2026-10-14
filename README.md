@@ -1,42 +1,59 @@
 [![MasterHead](https://wallpaperbat.com/img/832150-web-developer-wallpaper.jpg)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Neelava Bhattacharya</h1>
-<h3 align="center">🚀 Turning Ideas into Interactive Web Experiences 🌍</h3>
+<h3 align="center">☁️ Salesforce Developer | Apex | Lightning Web Components | Agentforce 🚀</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/media/a85f637f1eb4cd5efdd307f9760472a1.gif">
 
-
-
-- 🔭 I’m currently working on **enhancing my web development skills and building new projects!**
-
-- 🌱 I’m currently learning **Java Full Stack Development**
-
-- 👯 Eager to collaborate on **innovative projects involving frontend, backend, or full-stack development!**
-
-- 🤝 I’m looking for help with **finding mentorship and career opportunities in web development!**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-seven-liart-14.vercel.app/](https://portfolio-seven-liart-14.vercel.app/)
-
-- 📝 I regularly write articles on [https://www.instagram.com/myself_neelava/?hl=en](https://www.instagram.com/myself_neelava/?hl=en)
-
-- 💬 Ask me about **ReactJS, NextJS, NodeJS, Java, Spring, JDBC, Hybernate,**
-
-- 📫 How to reach me **nneelavabhattacharya@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/18Wnh7GFVMKh1nvDf2LF5LRTm99mDo7Ub?usp=sharing](https://drive.google.com/drive/folders/18Wnh7GFVMKh1nvDf2LF5LRTm99mDo7Ub?usp=sharing)
-
-- ⚡ Fun fact **I think I am addicted to technologies 🥲**
+- 🔭 I’m currently working on **Salesforce development, automation, integrations, and scalable CRM solutions.**
+- 🌱 I’m continuously learning **Agentforce, Salesforce architecture, advanced Apex, and DevOps practices.**
+- ⚙️ I work with **Apex, Lightning Web Components (LWC), Triggers, Flows, REST APIs, and Salesforce DX.**
+- 🤖 Exploring **Agentforce, Prompt Builder, AI-powered Salesforce applications, and intelligent automation.**
+- 🛠️ Building **Salesforce packages, reusable components, permission management solutions, and automated business processes.**
+- 🔐 Working on **Production Access Request**, a Salesforce project focused on controlled, temporary production access through permission set assignments.
+- 🚀 Exploring **Salesforce DevOps, Copado, CI/CD, unlocked packages, and automated testing.**
+- 👯 Open to collaborating on **Salesforce development, integrations, automation, and open-source projects.**
+- 💬 Ask me about **Apex, LWC, Salesforce Flows, SOQL, SOSL, REST integrations, Agentforce, and Salesforce DX.**
+- 📫 Reach me at **nneelavabhattacharya@gmail.com**
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/neelava-bhattacharya-7a0448246/)
+- ⚡ Fun fact: **I enjoy turning complex business requirements into scalable Salesforce solutions! ☁️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/neelava-bhattacharya-7a0448246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/neelava-bhattacharya-7a0448246/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/myself_neelava/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/myself_neelava/?hl=en" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/neelava9681" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/neelava9681" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/nneelavabhattacharya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/nneelavabhattacharya/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/neelava-bhattacharya-7a0448246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.instagram.com/myself_neelava/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/neelava9681" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/nneelavabhattacharya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h3 align="left">Salesforce & Development Technologies:</h3>
+<p align="left">
+<a href="https://developer.salesforce.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" alt="Salesforce" width="40" height="40"/></a>
+<a href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Apex and Java" width="40" height="40"/></a>
+<a href="https://developer.salesforce.com/docs/platform/lwc/overview" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript and LWC" width="40" height="40"/></a>
+<a href="https://developer.salesforce.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
+<a href="https://developer.salesforce.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/></a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/></a>
+</p>
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=neelava9681&show_icons=true&locale=en&layout=compact" alt="neelava9681" /></p>
+<h3 align="left">Salesforce Areas of Expertise:</h3>
 
+- **Development:** Apex Classes, Triggers, Test Classes, Lightning Web Components
+- **Automation:** Record-Triggered Flows, Screen Flows, Scheduled Jobs, Queueable Apex, Future Methods
+- **Data:** SOQL, SOSL, Data Modeling, Validation Rules, Custom Metadata Types
+- **Integrations:** REST APIs, Apex Callouts, Named Credentials, External Systems
+- **AI:** Agentforce, Prompt Builder, AI-powered Salesforce applications
+- **Security:** Permission Sets, Permission Set Assignments, Access Management, Least-Privilege Design
+- **DevOps:** Salesforce CLI, Salesforce DX, Git, Unlocked Packages, Copado
 
+<h3 align="left">Featured Project:</h3>
+
+🔐 **[Salesforce Production Access Request Package](https://github.com/Neelava9681/salesforce-production-access-request-Package)**
+
+A Salesforce project focused on requesting and managing temporary production access through permission set assignments, with an emphasis on controlled access and security.
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=neelava9681&show_icons=true&locale=en&layout=compact" alt="neelava9681" /></p>
